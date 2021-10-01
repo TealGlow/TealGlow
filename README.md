@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TealGlow
+- 👋 Hi, I’m @TealGlow, or Alyssa Comstock
 - 👀 I’m interested in programming, web development, and gaming.
 - 🌱 I’m currently learning more towards my CS degree.
 - 📫 How to reach me: send me an email at alyssacomstock95@gmail.com
