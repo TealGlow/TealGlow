@@ -1,7 +1,8 @@
 -  Hi, I’m @TealGlow, or Alyssa Comstock
 -  I’m interested in programming, web development, and gaming.
+-  software engineer
 -  complete: BS Mathematics August 2019 from PSU
--  working on: BS Computer Science Sep 2019 - Dec 2022 from OSU
+-  completed: BS Computer Science Sep 2019 - Dec 2022 from OSU
 -  How to reach me: send me an email at alyssacomstock95@gmail.com
 
 <!---
