@@ -2,6 +2,7 @@
 -  Software Engineer, Gamer, Crafter
 -  completed: BS Mathematics August 2019 from PSU
 -  completed: BS Computer Science Dec 2022 from OSU
+-  currently: Front End + Back End Software Engineer
 
 ![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
