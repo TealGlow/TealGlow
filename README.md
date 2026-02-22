@@ -17,8 +17,6 @@
 ![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-![image](https://camo.githubusercontent.com/0434dc2e4d00d729361a069394c1e8ac8942d31cbf5dc7af10914e384759eb43/68747470733a2f2f70726964652d6261646765732e706f6e792e776f726b6572732e6465762f7374617469632f76313f6c6162656c3d7472616e732532307269676874732673747269706557696474683d3626737472697065436f6c6f72733d3542434546412c4635413942382c4646464646462c4635413942382c354243454641)
-
 <!---
 TealGlow/TealGlow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
